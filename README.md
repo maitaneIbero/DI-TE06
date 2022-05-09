@@ -22,6 +22,7 @@
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
+
 ## About
 
 A continuación se van a describir y explicar los usos de la aplicación así como sus partes para un mejor entendimiento de la misma
