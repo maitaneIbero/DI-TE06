@@ -59,6 +59,7 @@ Esta parte nos permite seleccionar el cliente del cual queremos conocer informac
 Esta parte nos permite seleccionar la información que queremos ver del cliente. Podemos seleccionar entre los productos que ha consumido, su información general, su facturación y un gráfico con las categorías de productos que más ha consumido.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 #### Informes
 Al pulsar el botón de generar informe se nos habilitará en la zona principal un menú con 4 posibles informes. Un informe de ventas, uno de productos, uno de clientes y un gráfico de ventas anuales. Al pulsar sobre uno se nos abrirá una ventana emergente con el informe seleccionado. El mismo contará con un filtro para facilitar la búsqueda pudiendo así pasar de un informe genérico a uno más particular.
 
