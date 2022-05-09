@@ -4,7 +4,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#About-The-Project">About The Project</a>
+      <a href="#About">About The Project</a>
       <ul>
         <li><a href="#Aplicacion">Aplicacion</a></li>
         <li><a href="#Usos">Usos</a></li>
@@ -22,7 +22,7 @@
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About
 
 A continuación se van a describir y explicar los usos de la aplicación así como sus partes para un mejor entendimiento de la misma
 <p align="right">(<a href="#top">back to top</a>)</p>
