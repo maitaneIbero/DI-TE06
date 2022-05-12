@@ -79,8 +79,8 @@ mibero@birt.eus
 
 ## Referencias 📖
 Links de ayuda
-[GitHub](https://pages.github.com)
-[StackOverflow](https://stackoverflow.com/)
-[Youtube](https://youtube.com/)
-[Emojis](https://gist.github.com/rxaviers/7360908)
+* [GitHub](https://pages.github.com)
+* [StackOverflow](https://stackoverflow.com/)
+* [Youtube](https://youtube.com/)
+* [Emojis](https://gist.github.com/rxaviers/7360908)
 <p align="right">(<a href="#top">back to top</a>)</p>
