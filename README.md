@@ -73,11 +73,14 @@ La aplicación cuenta con 3 partes diferenciadas. La parte de filtro, la de mues
 
 ## Contacto 📧
 
-Maitane Ibero
+Maitane Ibero - Técnica superior en Desarrollo de Aplicaciones Multiplataforma(DAM) - Creadora del DashBoard SmartData.
 mibero@birt.eus
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Referencias 📖
-
-A continuación se van a describir y explicar los usos de la aplicación así como sus partes para un mejor entendimiento de la misma
+Links de ayuda
+[GitHub](https://pages.github.com)
+[StackOverflow](https://stackoverflow.com/)
+[Youtube](https://youtube.com/)
+[Emojis](https://gist.github.com/rxaviers/7360908)
 <p align="right">(<a href="#top">back to top</a>)</p>
