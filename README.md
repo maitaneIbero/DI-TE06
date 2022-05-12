@@ -44,6 +44,7 @@ Esta aplicación está pensada para un uso empresarial. La aplicación es usada 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Partes 🖱️
+--
 
 La aplicación cuenta con 3 partes diferenciadas. La parte de filtro, la de muestra de datos y la generación de informes.
 
