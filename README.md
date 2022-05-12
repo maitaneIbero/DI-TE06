@@ -75,7 +75,7 @@ La aplicación cuenta con 3 partes diferenciadas. La parte de filtro, la de mues
 ## Contacto 📧
 ---
 
-Maitane Ibero - Técnica superior en Desarrollo de Aplicaciones Multiplataforma(DAM) - Creadora del DashBoard SmartData.
+Maitane Ibero - Técnica superior en Desarrollo de Aplicaciones Multiplataforma(DAM) - Creadora del DashBoard SmartData.<br>
 mibero@birt.eus
 <p align="right">(<a href="#top">back to top</a>)</p>
 
