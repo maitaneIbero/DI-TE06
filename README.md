@@ -24,6 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About 💻
+---
 
 A continuación se van a describir y explicar los usos de la aplicación así como sus partes para un mejor entendimiento de la misma
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -72,12 +73,14 @@ La aplicación cuenta con 3 partes diferenciadas. La parte de filtro, la de mues
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contacto 📧
+---
 
 Maitane Ibero - Técnica superior en Desarrollo de Aplicaciones Multiplataforma(DAM) - Creadora del DashBoard SmartData.
 mibero@birt.eus
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Referencias 📖
+---
 Links de ayuda
 * [GitHub](https://pages.github.com)
 * [StackOverflow](https://stackoverflow.com/)
