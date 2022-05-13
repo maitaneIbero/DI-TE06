@@ -6,7 +6,7 @@
     <li>
       <a href="#About">About The Project</a>
       <ul>
-        <li><a href="#-Aplicacion">Aplicacion</a></li>
+        <li><a href="#Aplicacion:iphone">Aplicacion</a></li>
         <li><a href="#Usos">Usos</a></li>
         <li><a href="#Partes">Partes</a></li>
         <ul>
@@ -23,14 +23,14 @@
 </details>
 <!-- ABOUT THE PROJECT -->
 
-## About 💻
+## About 💻 
 ---
 
 A continuación se van a describir y explicar los usos de la aplicación así como sus partes para un mejor entendimiento de la misma
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### 📱 Aplicación 
+### Aplicación 📱
 
 La aplicación consta de un Dashboard que nos permitirá conocer información sobre los clientes de la empresa. Una vez se selecciones el cliente del que
 se desea conocer información se habilitará la opción de poder conocer información de importancia para la toma de decisiones empresariales. A su vez la aplicación nos permite crear informes administrativos que permitirán al trabajador conocer el estado de los productos, de las ventas, de los clientes y obtener un gráfico anual de ventas.
