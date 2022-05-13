@@ -69,7 +69,7 @@ Al pulsar el botón de generar informe se nos habilitará en la zona principal u
 
 ### Licencia ©️
 
-Queda totalmente prohibida la copia, distribución y modificación del programa.
+Queda totalmente prohibida la copia, distribución y modificación del programa. <br>
 Este software es propietario porque está pensado para ser utilizado por una empresa en particular, ya que está diseñado para conseguir los datos de su propia base de datos. Con la licencia de software propietario se consigue un nivel de calidad superior ya que el programa recibe soporte y mantenimiento exclusivos. Además dicha empresa ha pagado un coste por obtenerlo y utilizarlo exclusivamente
 
 <p align="right">(<a href="#top">back to top</a>)</p>
