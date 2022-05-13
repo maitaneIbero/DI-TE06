@@ -30,7 +30,7 @@ A continuación se van a describir y explicar los usos de la aplicación así co
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### Aplicación [📱] (#Aplicacion)
+### 📱 Aplicación 
 
 La aplicación consta de un Dashboard que nos permitirá conocer información sobre los clientes de la empresa. Una vez se selecciones el cliente del que
 se desea conocer información se habilitará la opción de poder conocer información de importancia para la toma de decisiones empresariales. A su vez la aplicación nos permite crear informes administrativos que permitirán al trabajador conocer el estado de los productos, de las ventas, de los clientes y obtener un gráfico anual de ventas.
