@@ -1,0 +1,11 @@
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\bin\Debug\net5.0\Utilidades.deps.json
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\bin\Debug\net5.0\Utilidades.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\bin\Debug\net5.0\ref\Utilidades.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\bin\Debug\net5.0\Utilidades.pdb
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net5.0\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net5.0\Utilidades.AssemblyInfoInputs.cache
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net5.0\Utilidades.AssemblyInfo.cs
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net5.0\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net5.0\Utilidades.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net5.0\ref\Utilidades.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net5.0\Utilidades.pdb

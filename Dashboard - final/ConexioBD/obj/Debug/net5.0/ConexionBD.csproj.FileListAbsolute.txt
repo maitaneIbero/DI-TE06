@@ -1,0 +1,15 @@
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\bin\Debug\net5.0\ConexionBD.deps.json
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\bin\Debug\net5.0\ConexionBD.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\bin\Debug\net5.0\ref\ConexionBD.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\bin\Debug\net5.0\ConexionBD.pdb
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\bin\Debug\net5.0\Utilidades.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\bin\Debug\net5.0\Utilidades.pdb
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\obj\Debug\net5.0\ConexionBD.csproj.AssemblyReference.cache
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\obj\Debug\net5.0\ConexionBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\obj\Debug\net5.0\ConexionBD.AssemblyInfoInputs.cache
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\obj\Debug\net5.0\ConexionBD.AssemblyInfo.cs
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\obj\Debug\net5.0\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\obj\Debug\net5.0\ConexionBD.csproj.CopyComplete
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\obj\Debug\net5.0\ConexionBD.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\obj\Debug\net5.0\ref\ConexionBD.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\ConexioBD\obj\Debug\net5.0\ConexionBD.pdb

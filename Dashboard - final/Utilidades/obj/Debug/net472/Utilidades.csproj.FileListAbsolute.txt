@@ -1,0 +1,8 @@
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\bin\Debug\net472\Utilidades.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\bin\Debug\net472\Utilidades.pdb
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net472\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net472\Utilidades.AssemblyInfoInputs.cache
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net472\Utilidades.AssemblyInfo.cs
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net472\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net472\Utilidades.dll
+C:\Users\maita\OneDrive\Escritorio\Dashboard\Utilidades\obj\Debug\net472\Utilidades.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NorthwindModelStoreContainer" CdmEntityContainer="NorthwindEntities">
+    <FunctionImportMapping FunctionImportName="Sales_by_Year" FunctionName="NorthwindModel.Store.Sales_by_Year">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="NorthwindModel.Sales_by_Year_Result">
+          <ScalarProperty Name="ShippedDate" ColumnName="ShippedDate" />
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="Subtotal" ColumnName="Subtotal" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

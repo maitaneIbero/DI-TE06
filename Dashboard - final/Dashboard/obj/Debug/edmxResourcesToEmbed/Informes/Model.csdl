@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NorthwindModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="NorthwindEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="Sales_by_Year" ReturnType="Collection(NorthwindModel.Sales_by_Year_Result)">
+      <Parameter Name="Beginning_Date" Mode="In" Type="DateTime" />
+      <Parameter Name="Ending_Date" Mode="In" Type="DateTime" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="Sales_by_Year_Result">
+    <Property Type="DateTime" Name="ShippedDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="OrderID" Nullable="false" />
+    <Property Type="Decimal" Name="Subtotal" Nullable="true" Precision="19" />
+    <Property Type="String" Name="Year" Nullable="true" MaxLength="30" />
+  </ComplexType>
+</Schema>

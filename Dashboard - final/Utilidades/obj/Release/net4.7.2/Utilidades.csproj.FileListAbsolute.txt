@@ -1,0 +1,17 @@
+D:\DesarrolloInterfaces\Dashboard\Utilidades\bin\Release\net4.7.2\Utilidades.dll
+D:\DesarrolloInterfaces\Dashboard\Utilidades\bin\Release\net4.7.2\Utilidades.pdb
+D:\DesarrolloInterfaces\Dashboard\Utilidades\obj\Release\net4.7.2\Utilidades.csproj.AssemblyReference.cache
+D:\DesarrolloInterfaces\Dashboard\Utilidades\obj\Release\net4.7.2\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloInterfaces\Dashboard\Utilidades\obj\Release\net4.7.2\Utilidades.AssemblyInfoInputs.cache
+D:\DesarrolloInterfaces\Dashboard\Utilidades\obj\Release\net4.7.2\Utilidades.AssemblyInfo.cs
+D:\DesarrolloInterfaces\Dashboard\Utilidades\obj\Release\net4.7.2\Utilidades.csproj.CoreCompileInputs.cache
+D:\DesarrolloInterfaces\Dashboard\Utilidades\obj\Release\net4.7.2\Utilidades.dll
+D:\DesarrolloInterfaces\Dashboard\Utilidades\obj\Release\net4.7.2\Utilidades.pdb
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Utilidades\bin\Release\net4.7.2\Utilidades.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Utilidades\bin\Release\net4.7.2\Utilidades.pdb
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Utilidades\obj\Release\net4.7.2\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Utilidades\obj\Release\net4.7.2\Utilidades.AssemblyInfoInputs.cache
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Utilidades\obj\Release\net4.7.2\Utilidades.AssemblyInfo.cs
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Utilidades\obj\Release\net4.7.2\Utilidades.csproj.CoreCompileInputs.cache
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Utilidades\obj\Release\net4.7.2\Utilidades.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Utilidades\obj\Release\net4.7.2\Utilidades.pdb

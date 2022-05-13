@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DesarrolloInterfaces\\Dashboard - final\\ConexioBD\\DAL.csproj": {}
+  },
+  "projects": {
+    "D:\\DesarrolloInterfaces\\Dashboard - final\\ConexioBD\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DesarrolloInterfaces\\Dashboard - final\\ConexioBD\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\DesarrolloInterfaces\\Dashboard - final\\ConexioBD\\DAL.csproj",
+        "packagesPath": "C:\\Users\\maita\\.nuget\\packages\\",
+        "outputPath": "D:\\DesarrolloInterfaces\\Dashboard - final\\ConexioBD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net4.7.2",
+            "projectReferences": {
+              "D:\\DesarrolloInterfaces\\Dashboard - final\\Utilidades\\Utilidades.csproj": {
+                "projectPath": "D:\\DesarrolloInterfaces\\Dashboard - final\\Utilidades\\Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "runtime.native.System.Data.SqlClient.sni": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DesarrolloInterfaces\\Dashboard - final\\Utilidades\\Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DesarrolloInterfaces\\Dashboard - final\\Utilidades\\Utilidades.csproj",
+        "projectName": "Utilidades",
+        "projectPath": "D:\\DesarrolloInterfaces\\Dashboard - final\\Utilidades\\Utilidades.csproj",
+        "packagesPath": "C:\\Users\\maita\\.nuget\\packages\\",
+        "outputPath": "D:\\DesarrolloInterfaces\\Dashboard - final\\Utilidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net4.7.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

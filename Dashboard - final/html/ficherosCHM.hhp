@@ -1,0 +1,20 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=ficherosCHM.chm
+Contents file=Table of Contents.hhc
+Default Window=Main
+Display compile progress=Yes
+Full-text search=Yes
+Index file=Index.hhk
+Language=0xc0a Español (España, internacional)
+Title=SmartData
+
+[WINDOWS]
+Buscar="Buscar","Table of Contents.hhc","Index.hhk",,,,,,,0x22520,,0x3006,[810,442,1109,638],,,,,,,0
+Indice="Indice","Table of Contents.hhc","Index.hhk",,,,,,,0x20520,,0x186e,[271,372,593,566],,,,,1,,0
+Main="SmartData","Table of Contents.hhc","Index.hhk",,,,,,,0x60520,200,,[25,25,575,425],,,,,,,0
+
+
+[INFOTYPES]
+

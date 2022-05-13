@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de37ac29-eab4-4755-b1f6-fb4b034f3945": {
+      "ProjectGuid": "de37ac29-eab4-4755-b1f6-fb4b034f3945",
+      "DisplayName": "Dashboard",
+      "ColorIndex": 0
+    },
+    "9c6f4bd7-06d7-429a-b45e-e1f347997c84": {
+      "ProjectGuid": "9c6f4bd7-06d7-429a-b45e-e1f347997c84",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "64b8aa0f-ca98-4d44-b451-1ece5322ddc1": {
+      "ProjectGuid": "64b8aa0f-ca98-4d44-b451-1ece5322ddc1",
+      "DisplayName": "ConsolaBD",
+      "ColorIndex": 2
+    },
+    "10e27cad-0f49-42a4-a368-b16d2745fa3f": {
+      "ProjectGuid": "10e27cad-0f49-42a4-a368-b16d2745fa3f",
+      "DisplayName": "Utilidades",
+      "ColorIndex": 3
+    },
+    "65b7876e-807b-497b-8f37-e585043cf54f": {
+      "ProjectGuid": "65b7876e-807b-497b-8f37-e585043cf54f",
+      "DisplayName": "UI",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "1648e257-62e0-400b-bf1e-ab1daeeae1cd": {
+      "ProjectGuid": "1648e257-62e0-400b-bf1e-ab1daeeae1cd",
+      "DisplayName": "BLL",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

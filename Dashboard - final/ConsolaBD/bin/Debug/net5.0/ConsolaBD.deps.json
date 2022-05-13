@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsolaBD/1.0.0": {
+        "dependencies": {
+          "ConexionBD": "1.0.0",
+          "Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaBD.dll": {}
+        }
+      },
+      "ConexionBD/1.0.0": {
+        "runtime": {
+          "ConexionBD.dll": {}
+        }
+      },
+      "Utilidades/1.0.0": {
+        "runtime": {
+          "Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaBD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConexionBD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

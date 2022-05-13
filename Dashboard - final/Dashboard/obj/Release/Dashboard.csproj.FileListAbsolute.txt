@@ -1,0 +1,184 @@
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Dashboard.exe.config
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Dashboard.exe
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Dashboard.pdb
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\BLL.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\EntityFramework.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\EntityFramework.SqlServer.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.SqlServer.Types.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Utilidades.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\DAL.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\EnvDTE.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\stdole.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Microsoft.MSXML.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\BLL.pdb
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\Utilidades.pdb
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\EntityFramework.xml
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\EntityFramework.SqlServer.xml
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\DAL.pdb
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.csproj.AssemblyReference.cache
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.ControlesUsuario.GraficoTartaUC.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.ControlesUsuario.GraficoUC.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.ControlesUsuario.InformacionUC.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.ControlesUsuario.ListUC.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.ControlesUsuario.MenuBotones.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.Form1.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.Formularios.Formulario.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.Informes.GraficoAnual.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.Informes.Informe.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.Informes.InformeProductos.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.Informes.InformeVentas.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.PopUp.PopUp.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.Properties.Resources.resources
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.csproj.GenerateResource.cache
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\RdlCompile.cache
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\RdlCompile.compiled
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.csproj.CoreCompileInputs.cache
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.csproj.CopyComplete
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.exe
+D:\DesarrolloInterfaces\Dashboard\Dashboard\obj\Release\Dashboard.pdb
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Dashboard.exe.config
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Dashboard.exe
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Dashboard.pdb
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\BLL.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\EntityFramework.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\EntityFramework.SqlServer.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.SqlServer.Types.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Utilidades.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\DAL.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\EnvDTE.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\stdole.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Microsoft.MSXML.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\BLL.pdb
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\Utilidades.pdb
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\EntityFramework.xml
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\EntityFramework.SqlServer.xml
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\DAL.pdb
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.csproj.AssemblyReference.cache
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.ControlesUsuario.GraficoTartaUC.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.ControlesUsuario.GraficoUC.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.ControlesUsuario.InformacionUC.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.ControlesUsuario.ListUC.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.ControlesUsuario.MenuBotones.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.Form1.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.Formularios.Formulario.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.Informes.GraficoAnual.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.Informes.Informe.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.Informes.InformeProductos.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.Informes.InformeVentas.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.PopUp.PopUp.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.Properties.Resources.resources
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.csproj.GenerateResource.cache
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\RdlCompile.cache
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\RdlCompile.compiled
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.csproj.CoreCompileInputs.cache
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.csproj.CopyComplete
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.exe
+D:\DesarrolloInterfaces\Dashboard - copia seguridad - copia\Dashboard\obj\Release\Dashboard.pdb
