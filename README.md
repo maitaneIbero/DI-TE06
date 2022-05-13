@@ -9,11 +9,11 @@
         <li><a href="#Aplicación-">Aplicacion</a></li>
         <li><a href="#Usos-">Usos</a></li>
         <li><a href="#Partes-">Partes</a></li>
-        <ul>
-          <li><a href="#1. Filtro">Filtro</a></li>
-          <li><a href="#2. Data">Data</a></li>
-          <li><a href="#3. Informes">Informes</a></li>
-        </ul>
+        <ol>
+          <li><a href="#Filtro">Filtro</a></li>
+          <li><a href="#Data">Data</a></li>
+          <li><a href="#Informes">Informes</a></li>
+        </ol>
         <li><a href="#Licencia-">Licencia</a></li>
       </ul>
     </li>
@@ -57,12 +57,12 @@ Esta parte nos permite seleccionar el cliente del cual queremos conocer informac
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-#### 2. Data
+2. #### Data
 Esta parte nos permite seleccionar la información que queremos ver del cliente. Podemos seleccionar entre los productos que ha consumido, su información general, su facturación y un gráfico con las categorías de productos que más ha consumido.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-#### 3. Informes
+3. #### Informes
 Al pulsar el botón de generar informe se nos habilitará en la zona principal un menú con 4 posibles informes. Un informe de ventas, uno de productos, uno de clientes y un gráfico de ventas anuales. Al pulsar sobre uno se nos abrirá una ventana emergente con el informe seleccionado. El mismo contará con un filtro para facilitar la búsqueda pudiendo así pasar de un informe genérico a uno más particular.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
