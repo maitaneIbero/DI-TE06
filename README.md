@@ -5,10 +5,9 @@
   <ol>
     <li>
       <a href="#About">About The Project</a>
-      <ul>
-        [Aplicacion](#aplicacion-)<li>Aplicacion</li>
-        <li><a href="#Aplicacion-">Aplicacion</a></li>
-        <li><a href="#Usos">Usos</a></li>
+      <ul>        
+        <li><a href="#Aplicación-">Aplicacion</a></li>
+        <li><a href="#Usos-">Usos</a></li>
         <li><a href="#Partes">Partes</a></li>
         <ul>
           <li><a href="#1. Filtro">Filtro</a></li>
