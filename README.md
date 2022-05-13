@@ -10,9 +10,9 @@
         <li><a href="#Usos-">Usos</a></li>
         <li><a href="#Partes-">Partes</a></li>
         <ul>
-          <li><a href="#1.">Filtro</a></li>
-          <li><a href="#2.-">Data</a></li>
-          <li><a href="#3.">Informes</a></li>
+          <li><a href="#1. Filtro">Filtro</a></li>
+          <li><a href="#2. Data">Data</a></li>
+          <li><a href="#3. Informes">Informes</a></li>
         </ul>
         <li><a href="#Licencia-">Licencia</a></li>
       </ul>
@@ -51,7 +51,7 @@ La aplicación cuenta con 3 partes diferenciadas. La parte de filtro, la de mues
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-#### 1. Filtro
+1.  #### Filtro
 
 Esta parte nos permite seleccionar el cliente del cual queremos conocer información. Además nos permite para facilitar la búsqueda el filtrar por el país que queremos reduciendo así los clientes que nos muestra la lista y reduciéndolos a aquellos de ese país.
 
