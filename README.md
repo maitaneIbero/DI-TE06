@@ -10,9 +10,9 @@
         <li><a href="#Usos-">Usos</a></li>
         <li><a href="#Partes-">Partes</a></li>
         <ul>
-          <li><a href="#1. Filtro">Filtro</a></li>
-          <li><a href="#2. Data">Data</a></li>
-          <li><a href="#3. Informes">Informes</a></li>
+          <li><a href="#1.-Filtro">Filtro</a></li>
+          <li><a href="#2.-Data">Data</a></li>
+          <li><a href="#3.-Informes">Informes</a></li>
         </ul>
         <li><a href="#Licencia-">Licencia</a></li>
       </ul>
