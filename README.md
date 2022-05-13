@@ -6,18 +6,18 @@
     <li>
       <a href="#About">About The Project</a>
       <ul>
-        <li><a href="#Aplicacion:iphone">Aplicacion</a></li>
+        <li><a href="#Aplicacion">Aplicacion</a></li>
         <li><a href="#Usos">Usos</a></li>
         <li><a href="#Partes">Partes</a></li>
         <ul>
-          <li><a href="#Filtro">Filtro</a></li>
-          <li><a href="#Data">Data</a></li>
-          <li><a href="#Informes">Informes</a></li>
+          <li><a href="#1. Filtro">Filtro</a></li>
+          <li><a href="#2. Data">Data</a></li>
+          <li><a href="#3. Informes">Informes</a></li>
         </ul>
         <li><a href="#Licencia">Licencia</a></li>
       </ul>
     </li>
-    <li><a href="#Contacto">Contacto</a></li>
+    <li><a href="#">Contacto</a></li>
     <li><a href="#Referencias">Referencias</a></li>
   </ol>
 </details>
