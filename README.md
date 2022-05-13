@@ -4,21 +4,21 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#About">About The Project</a>
+      <a href="#About-">About The Project</a>
       <ul>        
         <li><a href="#Aplicación-">Aplicacion</a></li>
         <li><a href="#Usos-">Usos</a></li>
-        <li><a href="#Partes">Partes</a></li>
+        <li><a href="#Partes-">Partes</a></li>
         <ul>
           <li><a href="#1. Filtro">Filtro</a></li>
           <li><a href="#2. Data">Data</a></li>
           <li><a href="#3. Informes">Informes</a></li>
         </ul>
-        <li><a href="#Licencia">Licencia</a></li>
+        <li><a href="#Licencia-">Licencia</a></li>
       </ul>
     </li>
-    <li><a href="#Contacto">Contacto</a></li>
-    <li><a href="#Referencias">Referencias</a></li>
+    <li><a href="#Contacto-">Contacto</a></li>
+    <li><a href="#Referencias-">Referencias</a></li>
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
