@@ -6,7 +6,7 @@
     <li>
       <a href="#About">About The Project</a>
       <ul>
-        <li><a href="#Aplicacion">Aplicacion</a></li>
+        <li><a href="###Aplicacion">Aplicacion</a></li>
         <li><a href="#Usos">Usos</a></li>
         <li><a href="#Partes">Partes</a></li>
         <ul>
@@ -17,7 +17,7 @@
         <li><a href="#Licencia">Licencia</a></li>
       </ul>
     </li>
-    <li><a href="#">Contacto</a></li>
+    <li><a href="#Contacto">Contacto</a></li>
     <li><a href="#Referencias">Referencias</a></li>
   </ol>
 </details>
