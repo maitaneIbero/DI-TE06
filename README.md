@@ -9,11 +9,11 @@
         <li><a href="#Aplicación-">Aplicacion</a></li>
         <li><a href="#Usos-">Usos</a></li>
         <li><a href="#Partes-">Partes</a></li>
-        <ol>
+        <ul>
           <li><a href="#Filtro">Filtro</a></li>
           <li><a href="#Data">Data</a></li>
           <li><a href="#Informes">Informes</a></li>
-        </ol>
+        </ul>
         <li><a href="#Licencia-">Licencia</a></li>
       </ul>
     </li>
